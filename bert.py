@@ -25,6 +25,7 @@ texts = [
     "I love this product! It's absolutely amazing.",
     "This is the worst experience I've ever had.",
     "The movie was okay, not great but not terrible either."
+    "I'm so depressed today, I want some rest."
 ]
 
 for text in texts:
@@ -34,4 +35,5 @@ for text in texts:
 
     print(f"Text: {text}\nSentiment: {sentiment} (confidence: {prob:.2f})\n")
 
+print("10628 정민규 인공지능 수행평가")
 print("김재형쌤 사랑해요")
